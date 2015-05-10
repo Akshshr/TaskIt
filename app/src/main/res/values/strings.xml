@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TaskIt</string>
+
+    <string name="hello_world"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_task_">Task_Activity</string>
+
+    <string name="done">Done : </string>
+    <string name="save">Save Me </string>
+
+    <string name="no_date">No date selected </string>
+
+    <string name="add_task">Add Task </string>
+    <string name="delete">Delete Task </string>
+    <string name="share">Share with doctor </string>
+
+    <string name="example">Sctor </string>
+
+
+
+
+
+</resources>
